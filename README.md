@@ -1,2 +1,2 @@
-# android-gradle-clean-architecure-dependecies
-Handle multi-module Gradle project, Absolutely in Android Clean Architecure
+# Android Clean Architecture dependencies
+Handle multi-module Gradle project dependency, Absolutely in Android Clean Architecture
